@@ -1,2 +1,2 @@
-# sql
+# SQL
  it is a pratice
