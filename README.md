@@ -1,2 +1,2 @@
 # sql
- it is a pratcie
+ it is a pratice
